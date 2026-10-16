@@ -67,14 +67,14 @@ felsefe: "Öğrenmeye devam et. Üretmeye devam et."
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/ahmetkaan244/Universal_FPS_sensitivity_Converter">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetkaan244&repo=Universal_FPS_sensitivity_Converter&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=tr" alt="Universal FPS Sensitivity Converter" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetkaan244&repo=Universal_FPS_sensitivity_Converter&theme=tokyonight&border_color=7aa2f7&border_radius=10&bg_color=35,0d1117,1a1b3a&locale=tr" alt="Universal FPS Sensitivity Converter" />
       </a>
       <br/>
       <sub>🎮 <i>Farklı FPS oyunları arasında fare hassasiyetini (sensitivity) hassas biçimde dönüştürün.</i></sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ahmetkaan244/bizimhikayemiz">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetkaan244&repo=bizimhikayemiz&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=tr" alt="Bizim Hikayemiz" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetkaan244&repo=bizimhikayemiz&theme=tokyonight&border_color=bd5fff&border_radius=10&bg_color=35,0d1117,1a1b3a&locale=tr" alt="Bizim Hikayemiz" />
       </a>
       <br/>
       <sub>📖 <i>Etkileşimli hikaye anlatımı ve kişisel anlatı platformu.</i></sub>
@@ -103,12 +103,12 @@ felsefe: "Öğrenmeye devam et. Üretmeye devam et."
 ### 🔥 GitHub İstatistikleri
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmetkaan244&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&line_height=20&locale=tr&cache_seconds=86400" alt="GitHub İstatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkaan244&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=tr&cache_seconds=86400" alt="En Çok Kullanılan Diller" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmetkaan244&show_icons=true&theme=tokyonight&border_color=bd5fff&border_radius=10&bg_color=35,0d1117,1a1b3a&line_height=20&locale=tr&cache_seconds=86400" alt="GitHub İstatistikleri" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkaan244&layout=compact&theme=tokyonight&border_color=bd5fff&border_radius=10&bg_color=35,0d1117,1a1b3a&locale=tr&cache_seconds=86400" alt="En Çok Kullanılan Diller" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkaan244&theme=tokyonight&hide_border=true&background=0d1117&locale=tr" alt="GitHub Katkı Serisi" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkaan244&theme=tokyonight&border=bd5fff&border_radius=10&background=161b2e&locale=tr" alt="GitHub Katkı Serisi" />
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ felsefe: "Öğrenmeye devam et. Üretmeye devam et."
 
 <!-- Footer Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=100&section=footer" width="100%" alt="Alt Dalga Görseli" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,30&height=120&section=footer" width="100%" alt="Alt Dalga Görseli" />
 </p>
 
 <p align="center">
