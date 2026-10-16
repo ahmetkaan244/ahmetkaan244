@@ -18,8 +18,10 @@
   <a href="https://github.com/ahmetkaan244">
     <img src="https://img.shields.io/badge/GitHub-ahmetkaan244-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.buymeacoffee.com/ahmetkaan244" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-BD5FFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ahmetkaan244&style=for-the-badge&color=ff4081&label=PROFILE+VIEWS" alt="Profile views" />
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ahmetkaan244" data-color="#BD5FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 </p>
 
 ---
@@ -101,15 +103,19 @@ mindset: "Keep learning. Keep creating."
 ### 🔥 GitHub Statistics
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ahmetkaan244&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkaan244&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmetkaan244&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&line_height=20&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkaan244&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Most Used Languages" />
 </p>
 
 <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkaan244&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ahmetkaan244" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="46" />
+  </a>
+</p>
 
 <!-- Footer Wave Banner -->
 <p align="center">
