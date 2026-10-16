@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-ahmetkaan244-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ahmetkaan244&style=for-the-badge&color=ff4081&label=PROFILE+VIEWS" alt="Profile views" />
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ahmetkaan244" data-color="#BD5FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 </p>
 
 ---
