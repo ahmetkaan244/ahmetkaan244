@@ -108,7 +108,7 @@ felsefe: "Öğrenmeye devam et. Üretmeye devam et."
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkaan244&theme=tokyonight&hide_border=true&background=0d1117&locale=tr" alt="GitHub Katkı Serisi" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkaan244&theme=tokyonight&hide_border=true&background=0d1117&locale=tr" alt="GitHub Katkı Serisi" />
 </p>
 
 <p align="center">
