@@ -31,11 +31,6 @@ GitHub Statistics
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkaan244&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
-Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetkaan244&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
 <p align="center">
 <sub>Building, learning, and improving — one commit at a time.</sub>
 </p>
