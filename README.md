@@ -48,14 +48,14 @@ felsefe: "Öğrenmeye devam et. Üretmeye devam et."
 <p align="center">
   <b>Diller & Temel Teknolojiler</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp&theme=dark" alt="Diller" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,nodejs&theme=dark" alt="Diller" />
   </a>
 </p>
 
 <p align="center">
-  <b>Veritabanları, Ortamlar & Araçlar</b><br/>
+  <b>Ortamlar & Araçlar</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,bash&theme=dark" alt="Araçlar ve Veritabanları" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,bash,visualstudio,raspberrypi,cloudflare,arduino&theme=dark" alt="Araçlar ve Veritabanları" />
   </a>
 </p>
 
